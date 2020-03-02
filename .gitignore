@@ -1,2 +1,5 @@
 ./.idea/
 ./venv/
+dist/
+scanfilters.egg-info/
+build/
